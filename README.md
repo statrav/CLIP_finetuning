@@ -9,6 +9,9 @@
 
 The following details should be stored in the corresponding path. </br>
 * _CC3M images in './conceptual_img/'_ </br>
+  * _png file_
 * _CC3M raw data in './CC3M_dataset/'_ </br>
-* _label.json in './generate_intent_gpt3.5/'_ </br>
+  * _tsv file_
+* _label data in './generate_intent_gpt3.5/'_ </br>
+  * _json file_
 
