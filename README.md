@@ -8,7 +8,7 @@
 </br>
 
 The following details should be stored in the corresponding path. </br>
-_* CC3M images in './conceptual_img/' </br>
-* CC3M raw data in './CC3M_dataset/' </br>
-* label.json in './generate_intent_gpt3.5/' </br>_
+* _CC3M images in './conceptual_img/'_ </br>
+* _CC3M raw data in './CC3M_dataset/'_ </br>
+* _label.json in './generate_intent_gpt3.5/'_ </br>
 
