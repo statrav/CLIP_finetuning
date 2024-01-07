@@ -7,5 +7,8 @@
 
 </br>
 
-_You need to save CC3M images in './conceptual_img/' for implement._ </br>
-_You need to save label.json in './generate_intent_gpt3.5/' for implement._
+The following details should be stored in the corresponding path. </br>
+_* CC3M images in './conceptual_img/' </br>
+* CC3M raw data in './CC3M_dataset/' </br>
+* label.json in './generate_intent_gpt3.5/' </br>_
+
